@@ -931,6 +931,15 @@ Provide a brief, specific answer based on the report content."""
                 self.add_to_transcript("Save our conversation", success_msg)
                 
                 return f"Transcript saved: {link}"
+        except Exception as e:
+            # Final catch to prevent crashes and surface a concise error
+            logger.exception("save_conversation_transcript failed: %s", e)
+            try:
+                await context.session.say("Sorry — I couldn't save the transcript right now.")
+            except Exception:
+                pass
+            return f"error_saving_transcript: {e}"
+
     
     @function_tool(
         description="Get a quick analysis or summary without generating a full report"
