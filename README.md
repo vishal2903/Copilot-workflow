@@ -2,10 +2,12 @@
 
 ________________________________________
 1) Exact phrase to start the flow
-Copy and send one of these (pick the one you like):
+
 Short / direct:
+
 Generate a lesson plan on [TOPIC]. Start HITL discovery for a lesson_plan and ask 6–7 clarifying questions. After every answer, show Objective / Assumptions / Paraphrase of my input / Next step. At the end ask “Are you done?” and then “Should I make the lesson plan now?”
 (Replace [TOPIC] with the real topic, e.g. “Prompt Engineering for Designers”.)
+
 ________________________________________
 [Most Imp]
 7) Extra tips to guarantee good output
