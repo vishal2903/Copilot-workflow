@@ -1,6 +1,6 @@
 User Voice Input
        ↓
-   ORCHESTRATOR (Zeno)
+   ORCHESTRATOR (Zeno) 
        ↓
    ┌───┴───┐
    │ HITL  │ ←── Discovery questions (one-by-one)
