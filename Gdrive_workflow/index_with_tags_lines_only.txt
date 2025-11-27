@@ -1,0 +1,42 @@
+Index (Data_Doc.txt — line ranges only, with tags)
+
+topic = Module1: Diffusion (Sub-module of Generative AI) (line no = 3-34) — tags: Orientation Session
+topic = Lecture 2: History of GenAI and TensorArt (line no = 35-84) — tags: Image Generation Parameters
+topic = Lecture 3: How Diffusion Works (line no = 85-148)
+topic = Lecture 4: Intro to SDXL Concepts and ComfyUI (line no = 149-238) — tags: Evolution of Stable Diffusion Models, SD 1.5, Core Nodes in a Basic ComfyUI Workflow, Load Image
+topic = Lecture 5: ControlNets (line no = 239-319) — tags: Subject, Medium, Key ControlNet Types Introduced, Scribble
+topic = Lecture 6: IP-Adapters, InstantID, and Inpainting (line no = 320-415) — tags: Inpainting, IP-Adapter
+topic = Lecture 7: Style Transfer & Upscalers, IC-Light, Segmentation (line no = 416-508)
+topic = Lecture 8: Training SDXL LoRA using KohyaSS (line no = 509-628) — tags: Core Components for LoRA Training, A Base Model, Key Terminology in LoRA Training, The Training Loop (Epochs and Steps)
+topic = Lecture 9: FLUX Migration and FLUX Tools (line no = 629-735) — tags: Key Advantages over SDXL, Excellent Prompt Adherence, FLUX Model Variants, Load Diffusion Model for the main U-Net., Dual CLIP Loader for its two text encoders., Load VAE for the image decoder.
+topic = Lecture 10: FLUX LoRA Training (line no = 736-832) — tags: Key Training Parameters for FLUX LoRA
+topic = Lecture 11: Wan 2.1 and Hunyuan (line no = 833-922) — tags: 14 Billion Parameter Model, Text-to-Video (T2V), Image-to-Video (I2V), Key Parameters in Video Generation, Length
+topic = Lecture 12: Advanced Wan 2.1 and Hunyuan Workflows (line no = 923-1022) — tags: Process, Deconstruct Video, Video Inpainting, Use Case
+topic = Lecture 13: Closed Source/ Proprietary Tools (line no = 1023-1106) — tags: Research, Scripting, Voiceover, Avatar/Video Generation, Editing
+topic = Lecture 14: Deploying Models on Replicate (line no = 1107-1186) — tags: The Replicate Deployment Workflow for ComfyUI
+topic = Lecture 1: Module Orientation & UI Fundamentals (line no = 1191-1296) — tags: AI Builder Mindset, This is about more than just coding. It's about understanding, User needs (Product), Robust solution design (Engineering), Impact and viability (Business), This holistic view is key to creating successful AI applications.
+topic = Lecture 2: UI Building with Gradio (line no = 1297-1435) — tags: Gradio for Rapid UI Development, Playground vs. Local Development, Playground, Python Virtual Environments, Managing Dependencies (requirements.txt), Secure API Key Management
+topic = Lecture 3: Introduction to APIs (line no = 1436-1601) — tags: API as a “Contract”, HTTP as a Standard, API Keys and Security, Endpoints Enable Modularity, JSON as the Default Format, API Documentation Is Non-Negotiable
+topic = Lecture 4: Building APIs with FastAPI (line no = 1602-1762) — tags: Backend API Development, FastAPI for Performance & Simplicity, Chosen for, Built-in validation, Speed (async support), Automatic docs via Swagger and ReDoc
+topic = Lab Session-  From Using AI tools to Building and Monetizing them (line no = 1763-1773)
+topic = Lecture 5: Introduction to Databases & Domain Modeling (line no = 1774-1883) — tags: Databases = Accurate Models of Reality, Domain Modeling = Blueprint for the Database, How to Identify Key Elements, Entities → Main nouns in your domain., Attributes → Descriptive info about entities., Relationships → Verbs linking entities.
+topic = Lecture 6: Connecting the Dots & Supabase Integration (line no = 1884-2113) — tags: Full-Stack Architecture Evolution, Level 1, Level 2, Level 3, Supabase as a BaaS, Offers PostgreSQL + Auth + File Storage + Real-time Updates
+topic = Lecture 7: Introduction to LLMs & Prompt Engineering (line no = 2114-2221) — tags: RLHF for Alignment
+topic = Lecture 8: Prompt Engineering & Building LLM Wrappers (line no = 2222-2371) — tags: The Paramount Importance of Context in Prompting, ICL, What Exactly is an “LLM Wrapper”?, An app or service built on top of LLM APIs, adding value through, Task-specific focus (e.g., summarizing legal docs), Optimized UI/UX
+topic = Assignment- OPT Discussion (line no = 2372-2571) — tags: Choose a Department (Vertical), Select any of the following or another department of your choice, Marketing, Sales, Customer Support, HR, Engineering, Operations, Product,, Learning & Development, Define the OPT Framework, For your chosen vertical
+topic = Lab Session- AI Filmmaking by Pranay (line no = 2572-2641)
+topic = Lecture 9: Building Apps with AI (Lovable, Cursor, etc.) (line no = 2642-2787)
+topic = Lecture 10: Building MVPs (Minimum Viable Products) (line no = 2788-2887)
+topic = Lecture 11: Function, Tool Calling and Intro to MCP (line no = 2888-2994) — tags: Solving LLM Hallucination with Dynamic Context, Function Calling, JSON Schema for Tool Definition, 3-Layer Architecture, LLM Layer, API Layer
+topic = Mini Hackathon (line no = 2995-2997)
+topic = review session - (line no = 2998-3002)
+topic = Lecture 12: Function, Tool Calling and MCPs (Practical) (line no = 3003-3296)
+topic = Lab Session (Combined) - LLM Behind the Scenes by Aishit Dharwal (line no = 3297-3317)
+topic = Lecture 1: Intro to AI Agents (line no = 3320-3401) — tags: Deconstructing the Definition of an "Agent", We started with a common but incomplete definition, Core Components of an AI Agent (as derived from our discussion), LLM Workflow vs. Agentic Workflow
+topic = Lecture 2: Building Your First AI Agent 1. 	(Practical) (line no = 3402-3487) — tags: AI Agent vs. LLM Workflow (Recap), Plan, Perceive/Feedback
+topic = Lecture 2: Building Your First AI Agent (No-Code) (line no = 3488-3561) — tags: AI Agent vs. LLM Workflow (Recap), Core Components of an Agentic System (Revisited), Goal, The Loop, Thought, Action
+topic = Lecture 3: Deep Dive: AI Agent Components and Design Patterns (line no = 3562-3635) — tags: Goal, Task Breakdown, Advanced Behavioral Patterns for Agents, Types of Agent Tools
+topic = Lecture 4: Understanding Multi-Agent Systems (line no = 3636-3714) — tags: Orchestration Patterns for Multi-Agent Systems, How do agents share goals, sub-goals, and context?, How is control handed off and resumed between agents?, Memory Types, Short-Term Memory
+topic = Lecture 5: Hands-on Building Agents(Code) (line no = 3715-3793) — tags: From Problem Statement to MVP
+topic = Lecture 5: Hands-on Building Agents (No-Code) (line no = 3794-3884) — tags: Recap, Thought, Action, Observation
+topic = Lecture 6: Applying Guardrails, Monitoring, and Evaluation (line no = 3885-3955)
